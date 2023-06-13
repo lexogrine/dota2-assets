@@ -1,1 +1,1 @@
-"# dota2-assets" 
+# Dota 2 Assets 1.1
