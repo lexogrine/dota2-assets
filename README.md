@@ -1,1 +1,1 @@
-# Dota 2 Assets 1.1
+# Dota 2 Assets 1.2
